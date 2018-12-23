@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <name>Demo Parser</name>
+    <topic>
+        <name>About Java</name>
+        <tutorial>OOP Concept</tutorial>
+        <tutorial>Java Data</tutorial>
+        <tutorial>Stirng Manupulation</tutorial>
+    </topic>
+    <topic>
+        <name>About VB Script</name>
+        <tutorial>QTP or UFT Class</tutorial>
+        <tutorial>Object Repository</tutorial>
+        <tutorial>Object Spy</tutorial>
+    </topic>
+</channel>
